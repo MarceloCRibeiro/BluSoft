@@ -1,0 +1,48 @@
+﻿
+.margin-left
+{
+    margin-left:15px;
+}
+
+.timeline-default {
+     margin-bottom:-5px;
+     height:5px;
+     width:150px;
+     border-top:2px solid #eeeeee;
+     table-layout: inherit;
+     display: inline-block;
+}
+
+.timeline-next {
+     margin-bottom:-5px;
+     height:5px;
+     width:150px;
+     border-top:2px solid #31b0d5;
+     table-layout: inherit;
+     display: inline-block;
+}
+
+.panel-primary > .panel-heading 
+{
+    background-color: #369 !important;
+    color: #fff !important;
+    border-color: #369 !important;
+    font-weight: bold;
+    font-size: 14px !important;
+    height: 35px !important;
+    vertical-align:baseline;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    background-color: transparent;
+    color: #23527c;
+    font-weight: bold;
+}
+
+.dropdown-menu > li > a 
+{
+    color: #23527c;
+    background-color: transparent;
+    font-size:small;
+    min-width: 220px;
+}
