@@ -20,7 +20,7 @@
     <link href="css/dataTables/dataTables.responsive.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" type="text/css" href="css/bootstrap-datetimepicker.css" />
     
-    <link rel="stylesheet" type="text/css" href="css/cssProposta.css" />
+    <link rel="stylesheet" type="text/css" href="css/cssCliente.css" />
 
     <script language="javascript" type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
     <script language="javascript" type="text/javascript" src="js/jquery.mask.min.js"></script>
